@@ -3,4 +3,4 @@ From the [ScillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/vokhmianin-da/sf_data_science.git)
+* [Проект 0. Игра: Угадай число](https://github.com/vokhmianin-da/sf_data_science/tree/main/project_0)
