@@ -163,3 +163,5 @@ cython_debug/
 
 *.pdf
 *.html
+/*PYTHON-13. VISUALISATION/*.csv
+/PYTHON-13. VISUALISATION/data
