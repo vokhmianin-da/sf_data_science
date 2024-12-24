@@ -164,3 +164,4 @@ cython_debug/
 *.pdf
 *.html
 /PYTHON-13. VISUALISATION/data
+BONUS. Markdown and GIT/data/sber_data.csv
