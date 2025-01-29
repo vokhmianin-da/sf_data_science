@@ -1,4 +1,5 @@
 # My data science projects
+Мои конспекты Data science.
 From the [ScillFactory Data Science course](https://skillfactory.ru/data-scientist-pro).
 
 ## Проекты
